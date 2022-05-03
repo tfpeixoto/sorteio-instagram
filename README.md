@@ -1,2 +1,6 @@
-Projeto original por
-(Adriana Saty)[https://www.youtube.com/watch?v=qe9rIetOBeA]
+# Criado por
+Thiago Peixoto
+
+## Projeto original
+Adriana Saty
+[https://www.youtube.com/watch?v=qe9rIetOBeA]
